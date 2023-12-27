@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    margin-left: 50px;
+    color: black;
+    background-color: white;
+}
+.has-addons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+}
+
+.button{
+    background-color: purple;
+    border-radius: 0px;
+    width: 20px;
+   color:white;
+   
+}
+
+article{
+    background-color: #E3E9E2;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    align-items: center;
+  
+  }
+
+  .nameCal{
+    font-weight: 900;
+    font-size: 20px;
+    margin: 50px;
+
+
+}
+
+.reset{
+    padding: 5px 20px 5px 20px;
+    background-color: #717271;
+    color: white;
+    margin-left: 30px;
+    margin-top: 60px;
+    height: 30px;
+    font-size: 15px;
+}
+
+input{
+    border: 2px solid purple;
+}
+
+
+.search{
+    font-size: 30px;
+}
+
+.searchbar{
+    border: 2px solid  purple;
+} 
+
+
+img{
+    margin: 20px;
+width:100px;
+height: 100px;
+}
+
+.box{
+    display: flex;
+}
+
+.media-content{
+    width: 100px;
+
+}
+
+strong{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+small{
+    font-size: 18px;
+}
+
